@@ -1,16 +1,45 @@
-## Hi there 👋
+## 🎮 Code, Care, and Create!
 
-<!--
-**hypoxia125/hypoxia125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub Profile!**
 
-Here are some ideas to get you started:
+I'm Anthony, a Healthcare Professional by day, and a coder and modder hobbiest by night. I work in Interventional Cardiology, and in my free time, I blend my love for video game modding/scripting with developing innovative medical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🌱 I’m currently learning: C# + MAUI, Enfusion Script, Python, Lua, XAML
+- 🎯 I'm currently proficient at: SQF
+
+- 🔮 Future: Looking to break into the tech industry when comfortable
+
+---
+
+### 🛠️ My Tech Stack
+
+- **Languages:**  
+  - SQF
+  - C#
+  - Enfusion Script
+  
+- **Frameworks:**  
+  - MAUI
+
+- **Tools & Platforms:**  
+  - Visual Studio Code
+  - Visual Studio 2022
+  - Arma Tools/Enfusion Tools
+
+---
+
+### 🌐 Connect with Me
+
+[Steam](https://steamcommunity.com/id/HypoxicGaming/)
+
+[Discord](discordapp.com/users/177167602768936960)
+
+---
+
+### 📫 How to reach me: [martini_a@outlook.com](mailto:martini_a@outlook.com)
+
+---
