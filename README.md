@@ -39,7 +39,3 @@ I'm Anthony, a Healthcare Professional by day, and a coder and modder hobbiest b
 [Discord](discordapp.com/users/177167602768936960)
 
 ---
-
-### 📫 How to reach me: [martini_a@outlook.com](mailto:martini_a@outlook.com)
-
----
