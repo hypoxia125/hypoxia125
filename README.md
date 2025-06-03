@@ -8,7 +8,7 @@ I'm Anthony, a Healthcare Professional by day, and a coder and modder hobbiest b
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning: C#, Enfusion Script, Python, Lua, XAML, JS
+- 🌱 I’m currently learning: C#, Enfusion Script, Python, Lua
 - 🎯 I'm currently proficient at: SQF
 
 - 🔮 Future: Looking to break into the tech industry when comfortable
@@ -21,13 +21,10 @@ I'm Anthony, a Healthcare Professional by day, and a coder and modder hobbiest b
   - SQF
   - C#
   - Enfusion Script
-  
-- **Frameworks:**  
-  - MAUI
 
 - **Tools & Platforms:**  
   - Visual Studio Code
-  - Visual Studio 2022
+  - Visual Studio
   - Arma Tools/Enfusion Tools
 
 ---
