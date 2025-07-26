@@ -36,3 +36,14 @@ I'm Anthony, a Healthcare Professional by day, and a coder and modder hobbiest b
 [Discord](discordapp.com/users/177167602768936960)
 
 ---
+
+### Projects
+
+#### Arma 3
+
+[Carrier Strike](https://github.com/hypoxia125/Carrier-Strike)
+[Modules Enhanced](https://github.com/hypoxia125/Modules-Enhanced)
+
+#### Arma Reforger
+
+[ACE Anvil - Defibrillation](https://github.com/acemod/ACE-Anvil/pull/190)
