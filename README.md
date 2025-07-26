@@ -39,12 +39,28 @@ I'm Anthony, a Healthcare Professional by day, and a coder and modder hobbiest b
 
 ### Projects
 
+#### Steam Workshop
+
+[Steam Workshop](https://steamcommunity.com/id/HypoxicGaming/myworkshopfiles/?appid=107410)
+
 #### Arma 3
+
+[Modules Enhanced](https://github.com/hypoxia125/Modules-Enhanced)
 
 [Carrier Strike](https://github.com/hypoxia125/Carrier-Strike)
 
-[Modules Enhanced](https://github.com/hypoxia125/Modules-Enhanced)
+[Colorful Flares](https://github.com/hypoxia125/Colorful-Flares)
+
+[IFA UK Afrika Campaign](https://github.com/hypoxia125/IFA-UK-Afrika-Campaign)
+
+[Switch Mini-Game](https://github.com/hypoxia125/Switch-Minigame)
+
+[Arma Squad Generator](https://github.com/hypoxia125/ArmaSquadGenerator)
 
 #### Arma Reforger
 
 [ACE Anvil - Defibrillation](https://github.com/acemod/ACE-Anvil/pull/190)
+
+#### Supreme Commmander Forged Alliance Forever
+
+[FAF Bar Nuke System](https://github.com/hypoxia125/FAF-BAR-Nuke-System)
